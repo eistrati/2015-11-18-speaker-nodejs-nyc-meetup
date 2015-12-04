@@ -1,5 +1,7 @@
 # Speaker @ NodeJS NYC Meetup
+
 ## Shutterstock HQ | Nov 18th, 2015
+http://www.meetup.com/nodejs/events/226713968
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=rPEtOFOncd8"
   target="_blank"><img src="http://img.youtube.com/vi/rPEtOFOncd8/0.jpg"
